@@ -1,6 +1,6 @@
 # myTemporary
 To practice using GitHub Desktop
 
-This is Forrest's first edit.
+This is Forrest's competing edit
 
 
